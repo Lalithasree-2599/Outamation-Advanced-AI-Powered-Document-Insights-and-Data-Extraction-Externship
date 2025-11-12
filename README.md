@@ -1,7 +1,7 @@
-# Outamation Externship — Advanced AI-Powered Document Insights & Data Extraction
+Advanced AI-Powered Document Insights & Data Extraction
 
-This repository contains all project work completed during the **Outamation Advanced AI-Powered Document Insights and Data Extraction Externship**.  
-The externship focuses on end-to-end automation of mortgage documents using **AI, NLP, LLMs, OCR, and Retrieval-Augmented Generation (RAG)**.
+This repository contains all project files of  **Advanced AI-Powered Document Insights and Data Extraction Externship**.  
+This focuses on end-to-end automation of mortgage documents using **AI, NLP, LLMs, OCR, and Retrieval-Augmented Generation (RAG)**.
 
 ---
 
